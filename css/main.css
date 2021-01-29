@@ -48,17 +48,8 @@ nav .nav-right-section .menu-icon{
     width: 25px;
     height: 25px;
 }
-nav .nav-right-section .menu-sesion{
-    /* height: 40px; */
-}
-nav .nav-right-section .menu-sesion a{
-    /* padding: 0px 12px; */
-    width: auto;
-    background-color: #4285f4;
-    border-radius: 2px;
-    border: 1px solid #4285f4;
-    font-weight: bold;
-    color: #fff;
-    line-height: 40px;
 
+nav .nav-right-section img{
+    border-radius: 50%;
+    margin-left: 10px;s
 }
